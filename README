@@ -1,6 +1,0 @@
-Downloads stock symbol data from nasdaqtrader
-
-Writes symbol data to SQL and CSV
-
-Requirements:
-sqlite3
