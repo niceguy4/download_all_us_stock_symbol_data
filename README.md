@@ -24,9 +24,9 @@ Script Actions:
 * Saves data stock_symbol_data.sqlite
 
 Python Library Requirements (defaults):
-* #### shutil
-* #### urllib
-* #### contextlib
-* #### csv
-* #### sqlite3
+* shutil
+* urllib
+* contextlib
+* csv
+* sqlite3
 
