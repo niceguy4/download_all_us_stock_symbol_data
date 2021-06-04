@@ -1,4 +1,4 @@
-######Downloads stock symbol data from nasdaqtrader
+###### Downloads stock symbol data from nasdaqtrader
 
 Writes symbol data to SQL and CSV
 
