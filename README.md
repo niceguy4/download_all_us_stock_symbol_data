@@ -2,7 +2,9 @@
 
 About:
 
-This script downloads U.S. stock symbol data from nasdaqtrader's ftp server. The follow data is included:
+This script downloads U.S. stock symbol data from nasdaqtrader's ftp server. The data includes the following:
+[Nasdaqtrader Descriptions](http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs):
+
 1. Symbol Name
 2. Security Name
 3. market Category
@@ -12,11 +14,8 @@ This script downloads U.S. stock symbol data from nasdaqtrader's ftp server. The
 7. ETF (yes or no)
 8. Nextshares
 
-[Nasdaqtrader Descriptions](http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs)
-
-* Downloads from FTP server at nasdaqtrader
-* Saves list to CSV
-* Ports CSV list to SQL database
+Run:
+* python pull_stocks_data.py
 
 Script Actions:
 * Pulls file list from ftp://nasdaqtrader.com/
