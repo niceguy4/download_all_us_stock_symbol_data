@@ -1,4 +1,4 @@
-# Download stock symbol data from nasdaqtrader
+## Download stock symbol data from nasdaqtrader
 
 * Downloads from FTP server at nasdaqtrader
 * Saves list to CSV
