@@ -1,6 +1,0 @@
-# Downloads stock symbol data from nasdaqtrader <h6>
-# Test
-Writes symbol data to SQL and CSV
-
-Requirements:
-sqlite3
