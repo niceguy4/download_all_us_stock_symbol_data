@@ -1,4 +1,4 @@
-###### Downloads stock symbol data from nasdaqtrader <h6>
+##### Downloads stock symbol data from nasdaqtrader <h6>
 
 Writes symbol data to SQL and CSV
 
